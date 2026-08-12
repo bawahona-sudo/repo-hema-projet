@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager CLI
 
 Application en ligne de commande (Dart pur, sans Flutter) pour gérer une
@@ -108,3 +109,6 @@ Priorité (low/medium/high) [medium] : high
 Date limite (AAAA-MM-JJ), ou vide si aucune : 2026-09-01
 Tâche créée : [ ] #1 (Normal, priorité haute) Préparer la soutenance — échéance : 2026-09-01
 ```
+=======
+# repo-hema-projet
+>>>>>>> 2a544dc73805bd48624573d91502a01eab920281
